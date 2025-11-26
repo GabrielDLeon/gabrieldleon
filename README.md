@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi there 
 
-Welcome to my GitHub profile! I'm **Gabriel**, a passionate developer currently diving deep into **Data Structures** and exploring new technologies to build efficient and scalable solutions.
+Welcome to my GitHub profile! I'm **Gabriel**.
 
 ## 🛠️ Skills
 
@@ -8,13 +8,9 @@ Welcome to my GitHub profile! I'm **Gabriel**, a passionate developer currently 
 
 ## 📂 Featured Projects
 
+- **[cleta](https://cleta.app)**
 - **[gym e-commerce](https://github.com/Theverimix/E-Commerce)**
 
 ## 🌐 Connect with Me
 
 - **[Linkedin](https://www.linkedin.com/in/gabrieldleon/)**
-- **[Dev Portfolio](https://dev.gabrieldleon.me/)**
-
-## 📈 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldleon&show_icons=true&theme=dark)
