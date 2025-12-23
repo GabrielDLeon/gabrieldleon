@@ -1,16 +1,6 @@
-## 👋 Hi there 
+Hi, it's gabriel. I'm a Software Developer.
 
-Welcome to my GitHub profile! I'm **Gabriel**.
+## featured-projects
 
-## 🛠️ Skills
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,astro,nextjs,tailwindcss,,java,spring,hibernate,,,postgresql,mongodb&perline=5)
-
-## 📂 Featured Projects
-
-- **[cleta](https://cleta.app)**
-- **[gym e-commerce](https://github.com/Theverimix/E-Commerce)**
-
-## 🌐 Connect with Me
-
-- **[Linkedin](https://www.linkedin.com/in/gabrieldleon/)**
+- **[cleta](https://cleta.app)**: A bike-sharing system for universities featuring hardware integration with e-lock.
+- **[gym e-commerce](https://github.com/Theverimix/E-Commerce)**: A high-performance store specialized in fitness equipment and inventory management.
